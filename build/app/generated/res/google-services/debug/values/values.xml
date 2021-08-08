@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">621615385682-1rhcdn49b5imr90qh95jgk7tua69dojh.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">621615385682</string>
+    <string name="google_api_key" translatable="false">AIzaSyBm24K_Ia7830T2ePt0SOmgXsp_DK7rkUU</string>
+    <string name="google_app_id" translatable="false">1:621615385682:android:7ad629e152b6e21d94238b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBm24K_Ia7830T2ePt0SOmgXsp_DK7rkUU</string>
+    <string name="google_storage_bucket" translatable="false">messaji-c02ff.appspot.com</string>
+    <string name="project_id" translatable="false">messaji-c02ff</string>
+</resources>
